@@ -1,6 +1,6 @@
 <h2 align="center">CampusIntent AI</h2>
 
-<p align="center"><sub>Student query intent classification: prompting vs fine-tuning<br>Generative AI mini-project, problem statement P21</sub></p>
+<p align="center"><sub>Student query intent classification: prompting vs fine-tuning<br>Generative AI mini-project.</sub></p>
 
 CampusIntent AI is a Streamlit app that reads a campus-related student query and predicts its intent. It also shows the model's confidence, inference latency, a privacy check, and the probability of every intent.
 
