@@ -1,0 +1,101 @@
+query,intent
+What is the semester fee?,Fees
+How can I pay my tuition fees?,Fees
+What is the hostel fee?,Fees
+Is there an examination fee?,Fees
+Can I pay fees in installments?,Fees
+What is the annual college fee?,Fees
+How do I get a fee receipt?,Fees
+What is the late fee penalty?,Fees
+Are fees refundable?,Fees
+Where can I pay my college fees?,Fees
+What is the admission fee?,Fees
+How much is the tuition fee?,Fees
+Can I pay fees online?,Fees
+What is the fee structure for CSE?,Fees
+When is the last date to pay fees?,Fees
+How can I check my pending fees?,Fees
+Is there a scholarship fee waiver?,Fees
+What are the additional college charges?,Fees
+Can I get a fee refund?,Fees
+How do I download my fee receipt?,Fees
+When are semester exams?,Exams
+Where can I find the exam timetable?,Exams
+What is the exam registration process?,Exams
+When will exam results be declared?,Exams
+How do I apply for revaluation?,Exams
+What is the passing criteria?,Exams
+When are practical exams scheduled?,Exams
+How can I download my hall ticket?,Exams
+What is the supplementary exam date?,Exams
+Can I apply for a backlog exam?,Exams
+Where is the examination department?,Exams
+How do I check my exam marks?,Exams
+What is the minimum passing percentage?,Exams
+When does the end semester exam start?,Exams
+How can I correct my exam form?,Exams
+What happens if I miss an exam?,Exams
+When is the internal assessment?,Exams
+How do I get my transcript?,Exams
+What is the exam pattern?,Exams
+Can I change my exam center?,Exams
+How can I apply for hostel accommodation?,Hostel
+Is hostel accommodation available?,Hostel
+What are the hostel rules?,Hostel
+When does hostel registration start?,Hostel
+What is the hostel fee?,Hostel
+Are meals included in the hostel?,Hostel
+Can I get a hostel room with a roommate?,Hostel
+What are the hostel timings?,Hostel
+Is WiFi available in the hostel?,Hostel
+How do I report a hostel complaint?,Hostel
+Can I leave the hostel on weekends?,Hostel
+Are separate hostels available for girls?,Hostel
+How can I check hostel room availability?,Hostel
+What documents are required for hostel admission?,Hostel
+Is there a hostel warden?,Hostel
+How can I apply for admission?,Admissions
+What is the admission process?,Admissions
+What are the eligibility criteria?,Admissions
+When does admission registration start?,Admissions
+Which documents are required for admission?,Admissions
+What is the last date for admission?,Admissions
+How can I check my admission status?,Admissions
+Are admissions open for engineering?,Admissions
+How do I get an admission confirmation letter?,Admissions
+What entrance exams are accepted?,Admissions
+Can I apply for admission online?,Admissions
+How can I cancel my admission?,Admissions
+What courses are available?,Admissions
+Is direct admission available?,Admissions
+Where is the admission office?,Admissions
+What is the placement process?,Placements
+Which companies visit the campus?,Placements
+What is the average placement package?,Placements
+When do campus placements start?,Placements
+How can I register for placements?,Placements
+Are internships available?,Placements
+What is the highest placement package?,Placements
+How do I prepare for campus interviews?,Placements
+Which companies recruit CSE students?,Placements
+Is placement training provided?,Placements
+What are the placement eligibility criteria?,Placements
+Where can I find placement statistics?,Placements
+How can I apply for a company drive?,Placements
+Are off-campus placement opportunities shared?,Placements
+Who is the placement coordinator?,Placements
+How can I apply for a scholarship?,Scholarships
+What scholarships are available?,Scholarships
+What are the scholarship eligibility criteria?,Scholarships
+When is the scholarship application deadline?,Scholarships
+How can I check scholarship status?,Scholarships
+Are merit-based scholarships available?,Scholarships
+Is there a scholarship for economically weaker students?,Scholarships
+What documents are required for a scholarship?,Scholarships
+How much scholarship amount is provided?,Scholarships
+Can I renew my scholarship?,Scholarships
+How do I apply for a government scholarship?,Scholarships
+Are scholarships available for engineering students?,Scholarships
+What is the income limit for scholarships?,Scholarships
+When will scholarship money be credited?,Scholarships
+Where can I contact the scholarship department?,Scholarships
