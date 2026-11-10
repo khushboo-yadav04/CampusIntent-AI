@@ -6,7 +6,6 @@ CampusIntent AI is a Streamlit app that reads a campus-related student query and
 
 ### Intents
 
-
 Admissions, Exams, Fees, Hostel, Placements, Scholarships
 
 ### Features
